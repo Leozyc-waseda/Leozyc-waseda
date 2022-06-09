@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leozyc-waseda
 - 👀 I’m interested in Deep Learning, Self-Driving Car.
 - 🌱 I’m currently learning Lidar Point Cloud.
-- 💞️ I’m looking to collaborate on Deep Learning, Lidar Point Cloud.
+- 💞️ I’m looking to collaborate on Deep Learning, Deep 3D Object Detection.
 - 📫 How to reach me zyc6660133@gmail.com
 
 <!---
