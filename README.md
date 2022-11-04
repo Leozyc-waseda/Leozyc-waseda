@@ -10,4 +10,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=hXt-o00h0aeAXpBEEEZSSqgBmDXKUvyJzAWJVqxhG0A&cl=ffffff&w=a"></script>
