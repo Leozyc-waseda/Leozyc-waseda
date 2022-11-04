@@ -8,3 +8,6 @@
 Leozyc-waseda/Leozyc-waseda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=hXt-o00h0aeAXpBEEEZSSqgBmDXKUvyJzAWJVqxhG0A&cl=ffffff&w=a"></script>
