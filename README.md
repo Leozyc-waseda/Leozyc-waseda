@@ -16,4 +16,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Country Stats](https://some-stat-service.com/path-to-your-stats?label=COUNTRY%20STATS)
