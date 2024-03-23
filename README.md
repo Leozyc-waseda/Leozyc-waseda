@@ -15,5 +15,4 @@ Leozyc-waseda/Leozyc-waseda is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<a href="https://info.flagcounter.com/u7Ye"><img src="https://s01.flagcounter.com/map/u7Ye/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/wdik"><img src="https://s11.flagcounter.com/count2/wdik/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
