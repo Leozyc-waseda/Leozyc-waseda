@@ -6,8 +6,8 @@
 
 
 ## 📄 My Related Papers
-- **PALF: Pre-Annotation and Camera-LiDAR Late Fusion for the Easy Annotation of Point Clouds** -[ReadMore](https://ieeexplore.ieee.org/document/10216156)
-
+- Arxiv: **PALF: Pre-Annotation and Camera-LiDAR Late Fusion for the Easy Annotation of Point Clouds** -[ReadMore](https://arxiv.org/abs/2304.08591)
+- MVA: **PALF: Pre-Annotation and Camera-LiDAR Late Fusion for the Easy Annotation of Point Clouds** -[ReadMore](https://ieeexplore.ieee.org/document/10216156)
   
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeozyc-waseda&label=VISITORS&countColor=%23263759)
 <!---
