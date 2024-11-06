@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leozyc-waseda
+- 👋 Hi, I’m @Leo
 - 👀 I’m interested in Deep Learning, Self-Driving Car.
 - 🌱 I’m currently learning Lidar Point Cloud.
 - 💞️ I’m looking to collaborate on Deep Learning, Deep 3D Object Detection, 2D Object Detection, Annotation.
